@@ -133,7 +133,7 @@ p {
     align-items: center;
     justify-content: center;
     background-color: #E5E7EB;
-    height: 350px;
+    height: 417px;
 }
 
 .quote-content {
@@ -151,4 +151,41 @@ p {
     text-align: end;
     font-weight: bold;
     font-size: 20px;
+}
+
+/* call to action section */
+
+.call-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.call-content {
+    display: flex;
+    gap: 50px;
+    background-color: #3882F6;
+    padding: 38px 120px;
+    border-radius: 7px;
+}
+
+.action {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.signing-up-text {
+    color: #b9babb;
+}
+
+.call-signup {
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 7px 27px;
 }
