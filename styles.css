@@ -189,3 +189,14 @@ p {
     font-size: 15px;
     padding: 7px 27px;
 }
+
+
+/* footer */
+
+.footer {
+    background-color: #1f2937;
+    height: 80px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
