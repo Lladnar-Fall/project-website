@@ -144,5 +144,11 @@ p {
     color: #1f2937;
     font-style: italic;
     font-size: 36px;
+    margin-bottom: 5px;
 }
 
+.author {
+    text-align: end;
+    font-weight: bold;
+    font-size: 20px;
+}
